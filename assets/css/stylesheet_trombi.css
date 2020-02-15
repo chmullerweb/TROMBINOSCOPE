@@ -1,0 +1,43 @@
+h1{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  text-align: center;
+
+}
+
+h2{
+  font-family: 'Tomorrow', sans-serif;
+  text-align: center;
+}
+
+img{
+  width: 100px;
+  border: 3px #56735e solid;
+  box-shadow: 0 0 5px 2px white;
+}
+
+figure{
+  text-align: center;
+  font-family: 'Tomorrow', sans-serif;
+  font-weight: bolder;
+  line-height: 25px;
+
+}
+
+section{
+  justify-content: center;
+}
+
+.flex{
+  display: flex;
+}
+
+.wrap{
+  flex-wrap: wrap;
+}
+
+body{
+background-image: url(../images/flowers.jpg);
+background-repeat:round;
+margin: auto;
+margin-left: 50px;
+}
